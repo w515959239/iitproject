@@ -1,0 +1,19 @@
+# Filename: requirements.txt
+#
+# Python version: Python 3.7.2
+#
+# Sou Cheng's environment:
+#
+#   conda activate dsplay
+#
+# To generate this file from command line, install the package 'pipreqs' and then use it to create requirements.txt
+#
+#   pip install pipreqs
+#   pipreqs --force .
+#
+# To install packages in this file:
+#
+#   pip3 install -r requirements.txt
+#
+pandas_datareader==0.7.0
+pandas==0.24.1
